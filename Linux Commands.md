@@ -9,4 +9,16 @@ Know about the host - OS, Kernel and Architecture
 ## Processes
 
 > ps aux
-> 
+
+
+## User Enumeration:
+
+> whoami
+>
+> id
+
+
+
+## Sensitive Files:
+
+> /etc/shadow

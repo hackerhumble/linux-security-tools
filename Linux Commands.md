@@ -22,3 +22,7 @@ Know about the host - OS, Kernel and Architecture
 ## Sensitive Files:
 
 > /etc/shadow
+
+## Network Enumeration:
+
+> netstat

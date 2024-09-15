@@ -12,3 +12,6 @@ Liniux: https://github.com/peass-ng/PEASS-ng/tree/master/linPEAS
 
 
 **Linux Priv Checker:** https://github.com/sleventyeleven/linuxprivchecker
+
+
+**Kernel Exploits:** https://github.com/lucyoa/kernel-exploits  --> Not maintained

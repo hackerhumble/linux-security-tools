@@ -26,6 +26,7 @@ Checklist - Linux Privilege Escalation - https://book.hacktricks.xyz/linux-unix/
 
 Sushant 747's Guide (Country dependant - may need VPN) - https://sushant747.gitbooks.io/total-oscp-guide/content/privilege_escalation_-_linux.html
 
+TCM Resources: https://github.com/TCM-Course-Resources/Linux-Privilege-Escalation-Resources
 
 # Passwords Enumeration:
 

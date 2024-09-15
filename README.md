@@ -15,3 +15,10 @@ Liniux: https://github.com/peass-ng/PEASS-ng/tree/master/linPEAS
 
 
 **Kernel Exploits:** https://github.com/lucyoa/kernel-exploits  --> Not maintained
+
+
+# Passwords Enumeration:
+
+**Wordlist:** rockyou.txt
+
+**Tools**: Hashcat, john the ripper

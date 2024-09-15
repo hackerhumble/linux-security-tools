@@ -9,3 +9,6 @@ https://github.com/peass-ng/PEASS-ng
 Liniux: https://github.com/peass-ng/PEASS-ng/tree/master/linPEAS
 
 **LinEnum**: https://github.com/rebootuser/LinEnum
+
+
+**Linux Priv Checker:** https://github.com/sleventyeleven/linuxprivchecker

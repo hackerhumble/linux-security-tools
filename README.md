@@ -33,3 +33,10 @@ TCM Resources: https://github.com/TCM-Course-Resources/Linux-Privilege-Escalatio
 **Wordlist:** rockyou.txt
 
 **Tools**: Hashcat, john the ripper
+
+# SUID  / SUDO:
+# FInd from which path dynamic libraries ar loaded:
+
+`objdump -x <path_to_executable>` 
+
+The variable RPATH indicates the search path from where the dynamic libraries are referenced/searched.

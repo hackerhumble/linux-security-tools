@@ -37,6 +37,10 @@ TCM Resources: https://github.com/TCM-Course-Resources/Linux-Privilege-Escalatio
 # SUID  / SUDO:
 # FInd from which path dynamic libraries ar loaded:
 
-`objdump -x <path_to_executable>` 
+`objdump -x <path_to_executable>` : The variable RPATH indicates the search path from where the dynamic libraries are referenced/searched.
 
-The variable RPATH indicates the search path from where the dynamic libraries are referenced/searched.
+* Send custom PATHs when invoking SUDO. This will not work in `env_reset` is done in the sudoers config.
+`sudo PATH=$PATH command`
+`sudo -E command` -> This passes the current environment to the sudo as well.
+
+
